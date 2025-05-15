@@ -1,0 +1,14 @@
+data_root: data
+output_dir: submissions
+batch_size: 64
+pretrain_epochs: 5
+epochs: 10
+learning_rate: 1e-4
+embedding_size: 1024
+n_way_train: 20
+k_shot: 1
+q_query: 5
+num_workers: 0
+image_size: [150, 150]
+model_path: submissions/proto_model.pth
+submission_path: submissions/submission_proto.csv

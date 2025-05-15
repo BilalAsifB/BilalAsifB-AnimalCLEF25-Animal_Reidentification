@@ -1,0 +1,16 @@
+data_root: data
+output_dir: submissions
+batch_size: 32
+num_epochs: 20
+learning_rate: 1e-4
+embedding_size: 512
+new_threshold: 0.6
+k_neighbors: 5
+arc_s: 30.0
+arc_m: 0.50
+accum_steps: 2
+num_workers: 0
+image_size: [150, 150]
+model_path: submissions/arcface_model.pth
+submission_path: submissions/submission_arcface.csv
+tune: false  # Set to true to enable hyperparameter tuning
