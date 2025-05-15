@@ -1,7 +1,3 @@
-Here’s a **GitHub-formatted Markdown** version of your **dataset instructions**, ready to be added to your `README.md` or placed in a `data/README.md` file:
-
----
-
 ## Dataset Instructions
 
 The **AnimalCLEF2025** dataset must be downloaded and placed in the `data/` directory.
@@ -65,6 +61,3 @@ data/
 * The dataset may include external sources such as **SeaTurtleID2022** or **WildlifeReID-10k**.
   If you use these, you must **comply with their licenses** and **cite the sources properly** (see [README.md](../README.md)).
 
----
-
-Let me know if you want me to auto-generate the `metadata.csv` schema or validate your dataset structure with a script.
