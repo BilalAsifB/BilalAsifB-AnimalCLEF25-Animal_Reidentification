@@ -176,7 +176,3 @@ If you use this code or the datasets, please cite the following:
 This repository is released under the **MIT License**.
 
 Note that the datasets (AnimalCLEF2025, SeaTurtleID2022, WildlifeReID-10k) have their own licenses that prohibit redistribution and commercial use. You must comply with their respective terms when using the data.
-
----
-
-Let me know if you'd like a badge section, logo, or `docs/` folder to further improve the project presentation on GitHub.
