@@ -1,7 +1,3 @@
-Here's a **GitHub-flavored Markdown** version of your `README.md` that is properly formatted for display on GitHub:
-
----
-
 # AnimalCLEF2025
 
 This repository implements three approaches for the **AnimalCLEF2025** competition, aimed at identifying animal subspecies (loggerhead turtle, lynx, salamander) using one-shot or few-shot learning. The approaches are:
